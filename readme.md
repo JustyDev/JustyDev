@@ -10,10 +10,6 @@ My website: [justydev.ru](https://justydev.ru)
 
 [![Hard Skills](https://skillicons.dev/icons?i=ts,js,css,html,react,redux,vite,next,php,swift,java,nodejs,electron,git,docker,redis,mysql,postgresql&perline=9)](https://skillicons.dev)
 
-**Code in**
-
-[![IDE`s](https://skillicons.dev/icons?i=webstorm,phpstorm,idea,vscode,&perline=9)](https://skillicons.dev)
-
-[Learn more about my hard skills](https://github.com/JustyDev/JustyDev/hardskills.md)
+[Learn more about my hard skills](https://github.com/JustyDev/JustyDev/blob/main/hardskills.md)
 
 All hugs, code with love <3
